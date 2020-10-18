@@ -3,9 +3,11 @@ package pboif2.pkg10119052.latihan1.biodata;
 
 /**
  *
- * Nama : Rizki Dwi Nugraha
- * Kelas : IF-2
- * NIM : 10119052
+ * NAMA   : Rizki Dwi nugraha
+ * KELAS  : IF-2
+ * NIM    : 10119052
+ * Deskripsi Program : Program ini berisi program untuk menampilkan 
+ * biodata
  * 
  */
 public class PBOIF210119052Latihan1Biodata {
